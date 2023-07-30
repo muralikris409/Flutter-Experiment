@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>565732616998-43nvh274c60ckbhvh8g09nn9geohippd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.565732616998-43nvh274c60ckbhvh8g09nn9geohippd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>565732616998-l1suhe8h8l60ppbncndalq0sce48ipu3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGZTp_HhVRJRL3-CYKTwv0iYXN2gTE8Ko</string>
+	<key>GCM_SENDER_ID</key>
+	<string>565732616998</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.temp</string>
+	<key>PROJECT_ID</key>
+	<string>crash-detection-a6f5a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crash-detection-a6f5a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:565732616998:ios:64fea94bc5f0f691d12fe7</string>
+	<key>DATABASE_URL</key>
+	<string>https://crash-detection-a6f5a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
